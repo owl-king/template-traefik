@@ -9,6 +9,8 @@ This module includes:
 - Automatically restart when it got crashed or startup
 - Run on *traefik* network
 
+## Deployment
+
 ```bash
 # Create a new network for traefik
 docker network create traefik		# Create a traefik network
